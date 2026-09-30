@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Data-Loss-Prevention"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Loss-Prevention?style=social" alt="GitHub stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Data-Loss-Prevention/stargazers"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Loss-Prevention?style=social" alt="GitHub forks"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Data-Loss-Prevention"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Loss-Prevention?style=social" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Data-Loss-Prevention/stargazers"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Loss-Prevention?style=social" alt="GitHub forks"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -52,9 +52,9 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 ## 🔓 Open-Source GitHub Projects
 
-*Open-source building blocks for PII detection, automated redaction, secret scanning, and LLM data guardrails. Star count links lead directly to stargazers.*
+*Open-source building blocks for PII detection, automated redaction, secret scanning, and LLM data guardrails. Stars_Count links lead directly to stargazers.*
 
-| Project | Description | GitHub Stars |
+| Project | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | **[gitleaks](https://github.com/zricethezav/gitleaks)** | 🔑 SAST tool for detecting and preventing hardcoded secrets like passwords, API keys, and tokens in git repos. | [![gitleaks Stars](https://img.shields.io/github/stars/zricethezav/gitleaks?style=social&color=white)](https://github.com/zricethezav/gitleaks/stargazers) |
 | **[trufflehog](https://github.com/trufflesecurity/trufflehog)** | 🐽 Finds secrets and credential leaks across git repositories, cloud storage, S3 buckets, and file systems. | [![trufflehog Stars](https://img.shields.io/github/stars/trufflesecurity/trufflehog?style=social&color=white)](https://github.com/trufflesecurity/trufflehog/stargazers) |
@@ -108,7 +108,7 @@ If you'd like to support the ongoing maintenance of this and other open-source p
 ## ⚠️ Disclaimer
 
 - This list is **community-curated** for educational purposes and does not constitute official commercial endorsement or legal/security advice.
-- Pricing metrics, valuations, and star counts are updated as of late 2026 and may fluctuate over time.
+- Pricing metrics, valuations, and Stars_Counts are updated as of late 2026 and may fluctuate over time.
 
 ---
 
